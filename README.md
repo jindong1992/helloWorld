@@ -11,4 +11,5 @@ x.c放到app 目录下
 
 
 将1 复制到xx_status.h中，将2复制到xx_chart.c中实现
+(Fsm_Defn.h)需要打开
 
