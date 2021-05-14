@@ -1,6 +1,6 @@
 # helloWorld
 
-1、生成xmi 使用  ./fsm_gen xxx.xmi生成文件如下：  执行命令 gcc -E include/fsm/StateApp.h -I./include/Common
+1、生成xmi 使用  ./fsm_gen xxx.xmi生成文件如下：  执行命令 gcc -E include/fsm/StateApp.h -I./include/Common（Fsm_Defn.h先注释35行）
 
 2、将生成的头文件放到include\fsm 文件下；将生成的xxx.c文件放到swc\gen文件下；将test_xx
 x.c放到app 目录下
