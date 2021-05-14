@@ -13,6 +13,6 @@ x.c放到app 目录下
 将1 复制到xx_status.h中，将2复制到xx_chart.c中实现
 (Fsm_Defn.h)需要打开
 
--3 最外层的状态
+-3 最外层的状态 FSM_LEVEL_0 FSM_TOP
 -2 自己内部装换
 -1 没有状态
