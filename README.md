@@ -16,3 +16,4 @@ x.c放到app 目录下
 -3 最外层的状态 FSM_LEVEL_0 FSM_TOP
 -2 自己内部装换
 -1 没有状态
+EA 12.1.1229 ADF8D83B-0683-4d1f-BB60-FF66D-WFM1-CHPZ-PII0-HN75-BC
